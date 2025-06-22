@@ -18,16 +18,8 @@ This project is a **personal portfolio website** developed as part of an interns
 - **Animations:** GSAP/AOS for smooth scrolling and transitions
 - **Backend (if applicable):** Node.js/PHP for form handling
 
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/codebydeepakJAYARAMDj/Micro-IIT-Internship.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Micro-IIT-Internship/portfolio
-   ```
-3. Open the `index.html` file in a browser:
+
+1. Open the `index.html` file in a browser:
    ```sh
    open index.html  # macOS
    start index.html  # Windows
